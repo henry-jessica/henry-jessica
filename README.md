@@ -1,16 +1,31 @@
-### Hi there 👋
+<h3 align="center">Hello World, I'm Jessica  👋</h3>
 
-<!--
-**henry-jessica/henry-jessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://github.com/henry-jessica" >
+      <img src="https://discoverthreejs.com/static/images/app-logos/github.png" height="50px" width="50px" >
+</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.itsligo.ie/">Studying Software Development</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Since I wrote my first program and manipulated it to produce the desired output, I was impressed! Many ideas have emerged for using the software to solve practical problems. The software world is incredible and I truly believe in the power of programming to transform and improve the lives of people around the world.
+
+I have been working on is a Arduino Solution - Smarthome (Rep Private at moment). 
+I love studying different technologies and perfecting existing skills.
+My specialities include fast learning new skills and programming languages, problem-solving and design patterns. 
+
+
+- 🔭 I’m currently studying first year on [IT SLIGO](https://www.itsligo.ie/#/)!
+- 🌱 I’m currently learning about Data Structure in C#, JavaScript, NodeJS, Arduino IDE
+- 🙇 I’m looking to collaborate with other content creators
+- 🎯 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I play guitar and play golf
+--- 
+
+
+
+
+
+
