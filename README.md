@@ -21,6 +21,7 @@ My specialities include fast learning new skills and programming languages, prob
 - 🌱 I’m currently learning about Data Structure in C#, JavaScript, NodeJS, Arduino IDE
 - 🙇 I’m looking to collaborate with other content creators
 - 🎯 2021 Goals: Contribute more to Open Source projects
+- 🏆 Honorable Mention in the Brazilian Olympiad of Mathematics - 2x (2007 and 2008)
 - ⚡ Fun fact: I play guitar and play golf
 --- 
 
