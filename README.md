@@ -17,7 +17,7 @@ I love studying different technologies and perfecting existing skills.
 My specialities include fast learning new skills and programming languages, problem-solving and design patterns. 
 
 --- 
-- 🔭 I’m currently studying first year at [IT SLIGO](https://www.itsligo.ie/#/)!
+- 🔭 I’m currently studying first year at [IT Sligo](https://www.itsligo.ie/#/)!
 - 🌱 I’m currently learning about Data Structure in C#, JavaScript, NodeJS, Arduino IDE
 - 🙇 I’m looking to collaborate with other content creators
 - 🎯 2021 Goals: Contribute more to Open Source projects
