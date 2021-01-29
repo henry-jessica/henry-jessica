@@ -16,7 +16,7 @@ I have been working on is a Arduino Solution - Smarthome (Rep Private at moment)
 I love studying different technologies and perfecting existing skills.
 My specialities include fast learning new skills and programming languages, problem-solving and design patterns. 
 
-
+--- 
 - 🔭 I’m currently studying first year on [IT SLIGO](https://www.itsligo.ie/#/)!
 - 🌱 I’m currently learning about Data Structure in C#, JavaScript, NodeJS, Arduino IDE
 - 🙇 I’m looking to collaborate with other content creators
