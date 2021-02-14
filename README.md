@@ -20,7 +20,7 @@ My specialities include fast learning new skills and programming languages, prob
 
 --- 
 - 🔭 I’m currently studying first year at [IT Sligo](https://www.itsligo.ie/#/)!
-- 🌱 I’m currently learning about Data Structure in C#, JavaScript, NodeJS, Arduino IDE
+- 🌱 I’m currently learning about Data Structure in C#, JavaScript, NodeJS, C# O.O and C++ using Arduino IDE
 - 🙇 I’m looking to collaborate with other content creators
 - 🎯 2021 Goals: Contribute more to Open Source projects
 - 🏆 Honorable Mention in the Brazilian Olympiad of Mathematics - 2x (2007 and 2008)
