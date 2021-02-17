@@ -12,7 +12,7 @@
 ---
 Since I wrote my first program and manipulated it to produce the desired output, I was impressed! Many ideas have emerged for using the software to solve practical problems. The software world is incredible and I truly believe in the power of programming to transform and improve the lives of people around the world.
 
-<p> I have been working on is a Arduino Solution - Smarthome (Rep Private at moment).</p>
+<p> I have been working on is a Arduino Solution - Smarthome (Repo. Private at moment).</p>
 
 <p> I love studying different technologies and perfecting existing skills.</p>
 
