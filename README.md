@@ -14,7 +14,7 @@ Since I wrote my first program and manipulated it to produce the desired output,
 <p> I have been working on a Arduino Solution - Smarthome link Demo: https://www.youtube.com/watch?v=E8e-XA-72NU</p>
 <p> I love studying different technologies and perfecting existing skills.</p>
 
-My specialities include fast learning new skills and programming languages, problem-solving and design patterns. My ambitious personality is my best quality.. 
+My specialities include fast learning new skills and programming languages, problem-solving and design patterns. My ambitious personality is my best quality. 
 
 <!--- 🌱 I’m currently learning about Data Structure in C#, JavaScript, NodeJS, C# O.O and C++ using Arduino IDE -->
 --- 
