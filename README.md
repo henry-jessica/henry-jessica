@@ -11,7 +11,7 @@
 
 
 ---
-Since I wrote my first program and manipulated it to produce the desired output, I was impressed! Many ideas have emerged for using code to solve practical problems. The software world is incredible and I truly believe in the power of programming to transform and improve the people's live around the world.
+Since I wrote my first program and manipulated it to produce the desired output, I was impressed! Many ideas have emerged to use code to solve practical problems. The software world is incredible and I truly believe in the power of programming to transform and improve the people's live around the world.
 <!--<p> I have been working on a Arduino Solution - Smarthome link Demo: https://www.youtube.com/watch?v=E8e-XA-72NU</p> -->
 <p> I love studying different technologies and perfecting existing skills.</p>
 
