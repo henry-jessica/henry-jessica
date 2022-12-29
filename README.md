@@ -20,7 +20,7 @@ My specialities include fast learning new skills and programming languages, prob
 --- 
 - 🔭 I’m currently studying second year at [IT Sligo](https://www.itsligo.ie/#/)
 - 🙇 I’m looking to collaborate with other content creators
-- 🎯 2022 Goals: Contribute more to Open Source projects
+- 🎯 2023 Goals: Share knowledge obtained during the development of my projects
 - 🏆 Honorable Mention in the Brazilian Olympiad of Mathematics - 2x (2007 and 2008)
 - ⚡ Fun fact: I play guitar and play golf
 --- 
