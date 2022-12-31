@@ -18,7 +18,7 @@ Since I wrote my first program and manipulated it to produce the desired output,
 My specialities include fast learning new skills and programming languages, problem-solving and design patterns.<br><!--<h5 align="center">My ambitious personality is my best quality.</h5> -->
 <!--- 🌱 I’m currently learning about Data Structure in C#, JavaScript, NodeJS, C# O.O and C++ using Arduino IDE -->
 --- 
-- 🔭 I’m currently studying second year at [IT Sligo](https://www.itsligo.ie/#/)
+- 🔭 I’m currently studying third year at [IT Sligo](https://www.itsligo.ie/#/)
 - 🙇 I’m looking to collaborate with other content creators
 - 🎯 2023 Goals: Share knowledge obtained during the development of my projects
 - 🏆 Honorable Mention in the Brazilian Olympiad of Mathematics - 2x (2007 and 2008)
