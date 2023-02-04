@@ -1,7 +1,7 @@
 <h3 align="center">Hello World, I'm Jessica  👋</h3>
 
 <p align="center">
-<a href="https://github.com/henry-jessica"><img src="https://discoverthreejs.com/static/images/app-logos/github.png" height="50px" width="50px"></a> 
+<!-- <a href="https://github.com/henry-jessica"><img src="https://discoverthreejs.com/static/images/app-logos/github.png" height="50px" width="50px"></a>  -->
 </p>
 <!--<p align="center"><a href="https://www.itsligo.ie/">Studying Software Development</a>-->   
 <p align="center">C# | Angular | TypeScript | JavaScript | Bootstrap 5 </a>
