@@ -13,17 +13,10 @@
 ---
 Since I wrote my first program and manipulated it to produce the desired output, I was impressed! Many ideas have emerged to use code to solve practical problems. The software world is incredible and I truly believe in the power of programming to transform and improve the people's live around the world.
 <!--<p> I have been working on a Arduino Solution - Smarthome link Demo: https://www.youtube.com/watch?v=E8e-XA-72NU</p> -->
-<p> I love studying different technologies and perfecting existing skills.</p>
+<p> I am passionate about learning new skills, solving complex problems, and creating innovative solutions that have a positive impact on the world..</p>
 
 My specialities include fast learning new skills and programming languages, problem-solving and design patterns.<br><!--<h5 align="center">My ambitious personality is my best quality.</h5> -->
 <!--- 🌱 I’m currently learning about Data Structure in C#, JavaScript, NodeJS, C# O.O and C++ using Arduino IDE -->
---- 
-- 🔭 I’m currently studying third year at [IT Sligo](https://www.itsligo.ie/#/)
-- 🙇 I’m looking to collaborate with other content creators
-- 🎯 2023 Goals: Share knowledge obtained during the development of my projects
-- 🏆 Honorable Mention in the Brazilian Olympiad of Mathematics - 2x (2007 and 2008)
-- ⚡ Fun fact: I play guitar and play golf
---- 
 
 
 # &#x1f4c8; GitHub Stats
