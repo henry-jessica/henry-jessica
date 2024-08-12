@@ -19,13 +19,6 @@ My specialities include fast learning new skills and programming languages, prob
 <!--- 🌱 I’m currently learning about Data Structure in C#, JavaScript, NodeJS, C# O.O and C++ using Arduino IDE -->
 
 
-# &#x1f4c8; GitHub Stats
-
-
-
-![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=henry-jessica&show_icons=true&theme=tokyonight)
-
-
 
 ## 	&#x1F6E0; Technologies & Tools
 
