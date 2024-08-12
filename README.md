@@ -25,15 +25,7 @@ My specialities include fast learning new skills and programming languages, prob
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=henry-jessica&show_icons=true&theme=tokyonight)
 
-<hr>
 
-# 	&#x1F4CA; Used Languages Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry-jessica&theme=tokyonight)](https://github.com/henry-jessica/henry-jessica)
-
-</div>
-
-<hr>
 
 ## 	&#x1F6E0; Technologies & Tools
 
